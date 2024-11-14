@@ -24,4 +24,5 @@
 **PROJECT  OBJECTIVE:** Company’s management wants to invest on proposals on managing some of the best teams in the league. The analytics department has been assigned with a task of creating a report on the performance shown by the teams. Some of the older teams are already in contract with competitors. Hence Company X wants to understand which teams they can approach which will be a deal win for them./
 
 
-**This project uses Plotting distribution, Visualization, and leverage information to make effective decisions. Analyzed past tournament information to make informative investment decisions. Refer to "Applied Statistics Project.ipynb" file.** 
+**This project uses Plotting distribution, Visualization, and leverage information to make effective decisions. Analyzed past tournament information to make informative investment decisions. Refer to** [Applied Statistics Project.ipynb
+](https://github.com/kalita278/Basketball-Team-Analysis/blob/main/Applied%20Statistics%20Project.ipynb)
